@@ -20,8 +20,8 @@ const allowedOrigins = new Set([
   "http://localhost:5173",
   "https://fsadmin-ebon.vercel.app/",
   "https://fsadmin-ebon.vercel.app",
-  "http://fgstmails.com/",
-  "http://fgstmails.com",
+  "https://fgstmails.com/",
+  "https://fgstmails.com",
   "http://82.25.109.68:3009/",
   "http://82.25.109.68:3009"
 
