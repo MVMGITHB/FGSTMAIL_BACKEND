@@ -21,7 +21,9 @@ const allowedOrigins = new Set([
   "https://fsadmin-ebon.vercel.app/",
   "https://fsadmin-ebon.vercel.app",
   "http://fgstmails.com/",
-  "http://fgstmails.com"
+  "http://fgstmails.com",
+  "http://82.25.109.68:3009/",
+  "http://82.25.109.68:3009"
 
 ]);
 
